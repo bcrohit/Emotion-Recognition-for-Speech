@@ -21,7 +21,6 @@ The dataset consists of 4,800 audio files in WAV format, with a duration of 3-5 
 
 | Feature | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-<<<<<<< HEAD
 | `Time Domain Features`      | `12 Central measures of tendency for each signal` | These features show how a signal changes with time. |
 | `Frequency Domain features` | `12 Central measures of tendency for each signal` | These show how much of the signal lies within each given frequency band over a range of frequencies.|
 | `MFCC`      | `The raw vectors for RAVDESS and SAVEE` | Features that capture the shape of the spectral envelope of audio signal. |
