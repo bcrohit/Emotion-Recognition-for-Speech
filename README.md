@@ -27,7 +27,6 @@ The dataset consists of 4,800 audio files in WAV format, with a duration of 3-5 
 | Mel Spectrograms      | The raw vectors for RAVDESS and SAVEE | Representation of audio signal that are mapped to the mel scale to better approximate human auditory perception. |
 | Chrom STFT      | The raw vectors for all datasets | Features that represent the energy of audio signal across 12 pitch classes. |
 |Chrom CQT      | The raw vectors for all datasets | Features that represent the energy of audio signal across 12 pitch classes, with logarithmically spaced frequency bins. |
->>>>>>> cda89e8a601f28d337232c5a5bf8533144aa05df
 
 
 
